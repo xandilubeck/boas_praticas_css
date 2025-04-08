@@ -1,12 +1,12 @@
-.produto-imagem { /* elemento */
+.produto--imagem { /* elemento */
     width: 100%;
 }
 
-.produto-nome { /* elemento */
+.produto--nome { /* elemento */
     font-size: 1.2em;
     margin: 8px 0;
 }
 
-.produto-descricao { /* elemento */
+.produto__descricao { /* elemento */
     color: gray;
 }
