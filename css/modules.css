@@ -1,8 +1,8 @@
-.produto--imagem { /* elemento */
+.produto__imagem { /* elemento */
     width: 100%;
 }
 
-.produto--nome { /* elemento */
+.produto__nome { /* elemento */
     font-size: 1.2em;
     margin: 8px 0;
 }
